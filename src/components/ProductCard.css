@@ -1,0 +1,18 @@
+.box-card {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    color: #c8c8c8;
+}
+.card {
+    border: 1px solid #ffffff;
+    padding: 10px; 
+    border-radius: 8px;
+    display: grid;
+    justify-items: center;
+}
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
